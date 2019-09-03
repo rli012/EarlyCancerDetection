@@ -21,3 +21,19 @@ CancerSEEK
 ### China
 
 #### [HaploX]
+
+
+## Literature
+
+### 2019
+
+### 2018
+
+Detection and localization of surgically resectable cancers with a multi-analyte blood test
+
+
+
+## News
+
+
+## Wechat
