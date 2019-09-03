@@ -27,9 +27,24 @@ CancerSEEK
 
 ### 2019
 
+Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer  
+
+Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma  
+
+Personalized detection of circulating tumor DNA antedates breast cancer metastatic recurrence  
+
+
+
 ### 2018
 
 Detection and localization of surgically resectable cancers with a multi-analyte blood test
+
+### 2017
+
+Tracking the Evolution of Non–Small-Cell Lung Cancer  
+
+Phylogenetic ctDNA analysis depicts early stage lung cancer evolution  
+
 
 
 
