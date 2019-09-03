@@ -45,6 +45,7 @@ Tracking the Evolution of Non–Small-Cell Lung Cancer
 
 Phylogenetic ctDNA analysis depicts early stage lung cancer evolution  
 
+[CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1191-5)  
 
 
 
