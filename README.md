@@ -54,4 +54,6 @@ Phylogenetic ctDNA analysis depicts early stage lung cancer evolution
 
 ## Wechat
 
-[丁香园-雅敦：液体活检肿瘤早筛现状](https://mp.weixin.qq.com/s/KtARYODUocv9tLFKGb7D2w)
+[丁香园-雅敦：液体活检肿瘤早筛现状](https://mp.weixin.qq.com/s/KtARYODUocv9tLFKGb7D2w)  
+
+[测序中国-iseqer：为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” | NBT解析背后原因](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA)
