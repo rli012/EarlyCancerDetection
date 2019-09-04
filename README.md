@@ -17,6 +17,10 @@ CancerSEEK
 
 #### [Singlera Genomics - Detect cancer earlier with the power of ctmDNA](https://singleraoncology.com/)
 
+#### [RESOLUTION BIOSCIENCE](http://www.resolutionbio.com/)
+
+#### [Adaptive Biotechnology](https://www.adaptivebiotech.com/)
+
 
 ### China
 
@@ -26,6 +30,8 @@ CancerSEEK
 ## Literature
 
 ### 2019
+
+[Investors keep the faith in cancer liquid biopsies](https://www.nature.com/articles/d41587-019-00022-7)  
 
 Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer  
 
@@ -56,4 +62,5 @@ Phylogenetic ctDNA analysis depicts early stage lung cancer evolution
 
 [丁香园-雅敦：液体活检肿瘤早筛现状](https://mp.weixin.qq.com/s/KtARYODUocv9tLFKGb7D2w)  
 
-[测序中国-iseqer：为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” | NBT解析背后原因](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA)
+[测序中国-iseqer：为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” | NBT解析背后原因](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA)  
+[测序中国：2019 DNA甲基化与癌症早筛专题报告](https://admin.tj.seqchina.cn/download/9)  
