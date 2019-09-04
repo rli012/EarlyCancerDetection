@@ -7,20 +7,20 @@
 #### [Thrive Earlier Detection](https://thrivedetect.com/)
 CancerSEEK
 
-#### [GRAIL]
+#### [GRAIL - Detecting Cancer Early, When It Can Be Cured](https://grail.com/)
 
-#### [Freenome]
+#### [Freenome - Using AI for Early Cancer Detection](https://www.freenome.com/)
 
-#### [Guardant Health]
+#### [Guardant Health](https://guardanthealth.com/)
 
-#### [Natera]
+#### [Natera](https://www.natera.com/)
 
-#### [Singlera Genomics]
+#### [Singlera Genomics - Detect cancer earlier with the power of ctmDNA](https://singleraoncology.com/)
 
 
 ### China
 
-#### [HaploX]
+#### [HaploX - Professional liquid biopsy for cancer diagnosis and treatment](https://www.haplox.com/)
 
 
 ## Literature
