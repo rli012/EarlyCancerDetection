@@ -31,6 +31,8 @@ CancerSEEK
 
 ### [GSE93203: ctDNA methylation markers in diagnosis and prognosis of hepatocellular carcinoma](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93203)
 
+### [GSE129374: Genome-wide discovery and validation of diagnostic DNA methylation-based biomarkers for hepatocellular cancer detection in circulating cell free DNA](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129374)
+
 ## Literature
 
 ### 2019
