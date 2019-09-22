@@ -33,6 +33,10 @@ CancerSEEK
 
 ### [GSE129374: Genome-wide discovery and validation of diagnostic DNA methylation-based biomarkers for hepatocellular cancer detection in circulating cell free DNA](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129374)
 
+### [GSE118613: Two miRNA signatures for identifying nasopharyngeal carcinoma from head-neck tumors and the normal](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118613)
+
+### [GSE113486: Circulating miRNA panels for specific and early detection in bladder cancer](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
+
 ## Literature
 
 ### 2019
