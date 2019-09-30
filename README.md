@@ -35,7 +35,7 @@ CancerSEEK
 
 ### [GSE118613: Two miRNA signatures for identifying nasopharyngeal carcinoma from head-neck tumors and the normal](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118613)
 
-### [GSE113486: Circulating miRNA panels for specific and early detection in bladder cancer](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
+### [GSE113486: Circulating miRNA panels for specific and early detection in bladder cancer](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE113486)
 
 ## Literature
 
