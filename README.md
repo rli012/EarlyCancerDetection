@@ -21,6 +21,8 @@ CancerSEEK
 
 #### [Adaptive Biotechnology](https://www.adaptivebiotech.com/)
 
+#### [Everest Detection](https://everestdetection.com/)
+
 
 ### China
 
