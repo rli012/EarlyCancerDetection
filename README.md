@@ -65,6 +65,9 @@ Phylogenetic ctDNA analysis depicts early stage lung cancer evolution
 
 [CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1191-5)  
 
+### Before 2016
+
+[Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma](https://ascopubs.org/doi/10.1200/JCO.2011.38.2697)
 
 
 ## News
@@ -75,4 +78,6 @@ Phylogenetic ctDNA analysis depicts early stage lung cancer evolution
 [丁香园-雅敦：液体活检肿瘤早筛现状](https://mp.weixin.qq.com/s/KtARYODUocv9tLFKGb7D2w)  
 
 [测序中国-iseqer：为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” | NBT解析背后原因](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA)  
-[测序中国：2019 DNA甲基化与癌症早筛专题报告](https://admin.tj.seqchina.cn/download/9)  
+[测序中国：2019 DNA甲基化与癌症早筛专题报告](https://admin.tj.seqchina.cn/download/9) 
+
+[周俭教授：肝癌精准医学要满足四大临床需求 | CSCO 2019](https://xueqiu.com/1912517390/133186773)  
