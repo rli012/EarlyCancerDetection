@@ -28,16 +28,12 @@ CancerSEEK
 
 #### [HaploX - Professional liquid biopsy for cancer diagnosis and treatment](https://www.haplox.com/)
 
+### Labs
 
-## Dataset
+#### [Dr. Kun Zhang Lab, UCSD](http://genome-tech.ucsd.edu/ZhangLab/)
 
-### [GSE93203: ctDNA methylation markers in diagnosis and prognosis of hepatocellular carcinoma](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93203)
+#### [Dr. Takahiro Ochiya, National Cancer Center Research Institute, Tokyo, Japan](https://www.researchgate.net/profile/Takahiro_Ochiya/research)
 
-### [GSE129374: Genome-wide discovery and validation of diagnostic DNA methylation-based biomarkers for hepatocellular cancer detection in circulating cell free DNA](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129374)
-
-### [GSE118613: Two miRNA signatures for identifying nasopharyngeal carcinoma from head-neck tumors and the normal](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118613)
-
-### [GSE113486: Circulating miRNA panels for specific and early detection in bladder cancer](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE113486)
 
 ## Literature
 
