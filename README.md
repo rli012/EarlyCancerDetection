@@ -47,7 +47,7 @@ Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by 
 
 Personalized detection of circulating tumor DNA antedates breast cancer metastatic recurrence  
 
-
+Inference of transcription factor binding from cell-free DNA enables tumor subtype prediction and early detection  
 
 ### 2018
 
