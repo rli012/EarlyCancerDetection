@@ -39,6 +39,8 @@ CancerSEEK
 
 ### 2019
 
+[Circular ecDNA promotes accessible chromatin and high oncogene expression](https://www.nature.com/articles/s41586-019-1763-5)  
+
 [Investors keep the faith in cancer liquid biopsies](https://www.nature.com/articles/d41587-019-00022-7)  
 
 Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer  
