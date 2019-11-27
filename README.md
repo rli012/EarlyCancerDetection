@@ -34,6 +34,7 @@ CancerSEEK
 
 #### [Dr. Takahiro Ochiya, National Cancer Center Research Institute, Tokyo, Japan](https://www.researchgate.net/profile/Takahiro_Ochiya/research)
 
+#### [Dr. Shuangge Ma, Yale University](https://publichealth.yale.edu/profile/shuangge_ma/)
 
 ## Literature
 
