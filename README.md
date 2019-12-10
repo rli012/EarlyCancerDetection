@@ -40,6 +40,10 @@ CancerSEEK
 
 ### 2019
 
+[High-intensity sequencing reveals the sources of plasma circulating cell-free DNA variants](https://www.nature.com/articles/s41591-019-0652-7)  
+
+[Pulmonary venous circulating tumor cell dissemination before tumor resection and disease relapse](https://www.nature.com/articles/s41591-019-0593-1)  
+
 [Circular ecDNA promotes accessible chromatin and high oncogene expression](https://www.nature.com/articles/s41586-019-1763-5)  
 
 [Investors keep the faith in cancer liquid biopsies](https://www.nature.com/articles/d41587-019-00022-7)  
