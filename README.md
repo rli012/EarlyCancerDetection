@@ -39,6 +39,7 @@ CancerSEEK
 ## Literature
 
 ### 2019
+[High-accuracy liquid biopsies](https://www.nature.com/articles/s41591-019-0690-1)  
 
 [High-intensity sequencing reveals the sources of plasma circulating cell-free DNA variants](https://www.nature.com/articles/s41591-019-0652-7)  
 
