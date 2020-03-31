@@ -38,40 +38,46 @@ CancerSEEK
 
 ## Literature
 
+### 2020
+
+* [Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA](https://www.annalsofoncology.org/article/S0923-7534(20)36058-0/fulltext)
+
 ### 2019
-[High-accuracy liquid biopsies](https://www.nature.com/articles/s41591-019-0690-1)  
+* [Machine learning enables detection of early-stage colorectal cancer by whole-genome sequencing of plasma cell-free DNA](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-019-6003-8)
 
-[High-intensity sequencing reveals the sources of plasma circulating cell-free DNA variants](https://www.nature.com/articles/s41591-019-0652-7)  
+* [High-accuracy liquid biopsies](https://www.nature.com/articles/s41591-019-0690-1)  
 
-[Pulmonary venous circulating tumor cell dissemination before tumor resection and disease relapse](https://www.nature.com/articles/s41591-019-0593-1)  
+* [High-intensity sequencing reveals the sources of plasma circulating cell-free DNA variants](https://www.nature.com/articles/s41591-019-0652-7)  
 
-[Circular ecDNA promotes accessible chromatin and high oncogene expression](https://www.nature.com/articles/s41586-019-1763-5)  
+* [Pulmonary venous circulating tumor cell dissemination before tumor resection and disease relapse](https://www.nature.com/articles/s41591-019-0593-1)  
 
-[Investors keep the faith in cancer liquid biopsies](https://www.nature.com/articles/d41587-019-00022-7)  
+* [Circular ecDNA promotes accessible chromatin and high oncogene expression](https://www.nature.com/articles/s41586-019-1763-5)  
 
-Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer  
+* [Investors keep the faith in cancer liquid biopsies](https://www.nature.com/articles/d41587-019-00022-7)  
 
-Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma  
+* Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer  
 
-Personalized detection of circulating tumor DNA antedates breast cancer metastatic recurrence  
+* Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma  
 
-Inference of transcription factor binding from cell-free DNA enables tumor subtype prediction and early detection  
+* Personalized detection of circulating tumor DNA antedates breast cancer metastatic recurrence  
+
+* Inference of transcription factor binding from cell-free DNA enables tumor subtype prediction and early detection  
 
 ### 2018
 
-Detection and localization of surgically resectable cancers with a multi-analyte blood test
+* Detection and localization of surgically resectable cancers with a multi-analyte blood test
 
 ### 2017
 
-Tracking the Evolution of Non–Small-Cell Lung Cancer  
+* Tracking the Evolution of Non–Small-Cell Lung Cancer  
 
-Phylogenetic ctDNA analysis depicts early stage lung cancer evolution  
+* Phylogenetic ctDNA analysis depicts early stage lung cancer evolution  
 
-[CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1191-5)  
+* [CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1191-5)  
 
 ### Before 2016
 
-[Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma](https://ascopubs.org/doi/10.1200/JCO.2011.38.2697)
+* [Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma](https://ascopubs.org/doi/10.1200/JCO.2011.38.2697)
 
 
 ## News
