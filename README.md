@@ -43,6 +43,8 @@ CancerSEEK
 * [Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA](https://www.annalsofoncology.org/article/S0923-7534(20)36058-0/fulltext)
 
 ### 2019
+* [Plasma cell-free DNA (cfDNA) assays for early multi-cancer detection: the circulating cell-free genome atlas (CCGA) study](https://grail.com/wp-content/uploads/2018/10/ESMO_2018_Liu_CCGA1_Test_ORP_Final.pdf)
+
 * [Machine learning enables detection of early-stage colorectal cancer by whole-genome sequencing of plasma cell-free DNA](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-019-6003-8)
 
 * [High-accuracy liquid biopsies](https://www.nature.com/articles/s41591-019-0690-1)  
