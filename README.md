@@ -5,7 +5,7 @@
 ### US
 
 #### [Thrive Earlier Detection](https://thrivedetect.com/)
-CancerSEEK
+* CancerSEEK
 
 #### [GRAIL - Detecting Cancer Early, When It Can Be Cured](https://grail.com/)
 
@@ -72,6 +72,7 @@ CancerSEEK
 
 * Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * [Utility of circulating tumor DNA in cancer diagnostics with emphasis on early detection](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1157-9)
+* [Detection and localization of surgically resectable cancers with a multi-analyte blood test](https://science.sciencemag.org/content/359/6378/926)
 
 ### 2017
 
