@@ -68,6 +68,7 @@ CancerSEEK
 ### 2018
 
 * Detection and localization of surgically resectable cancers with a multi-analyte blood test
+* [Utility of circulating tumor DNA in cancer diagnostics with emphasis on early detection](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1157-9)
 
 ### 2017
 
