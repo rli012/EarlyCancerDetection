@@ -57,9 +57,9 @@ CancerSEEK
 
 * [Investors keep the faith in cancer liquid biopsies](https://www.nature.com/articles/d41587-019-00022-7)  
 
-* Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer  
+* [Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer](https://jamanetwork.com/journals/jamaoncology/fullarticle/2733132)
 
-* Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma  
+* [Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma](https://ascopubs.org/doi/full/10.1200/JCO.18.02052?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)
 
 * Personalized detection of circulating tumor DNA antedates breast cancer metastatic recurrence  
 
