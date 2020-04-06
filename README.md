@@ -1,5 +1,7 @@
 # EarlyCancerDetection
 
+![](https://github.com/rli012/EarlyCancerDetection/blob/master/caac21590-fig-0001-m.png)
+
 ## Company
 
 ### US
