@@ -13,6 +13,8 @@
 
 #### [Guardant Health](https://guardanthealth.com/)
 
+#### [Biocept](https://biocept.com/)
+
 #### [Natera](https://www.natera.com/)
 
 #### [Singlera Genomics - Detect cancer earlier with the power of ctmDNA](https://singleraoncology.com/)
