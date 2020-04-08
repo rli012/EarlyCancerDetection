@@ -68,9 +68,9 @@
 
 * [Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma](https://ascopubs.org/doi/full/10.1200/JCO.18.02052?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)
 
-* Personalized detection of circulating tumor DNA antedates breast cancer metastatic recurrence  
+* [Personalized detection of circulating tumor DNA antedates breast cancer metastatic recurrence](https://clincancerres.aacrjournals.org/content/early/2019/04/16/1078-0432.CCR-18-3663)
 
-* Inference of transcription factor binding from cell-free DNA enables tumor subtype prediction and early detection  
+* [Inference of transcription factor binding from cell-free DNA enables tumor subtype prediction and early detection](https://www.nature.com/articles/s41467-019-12714-4)
 
 ### 2018
 
