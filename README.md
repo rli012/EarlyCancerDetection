@@ -27,6 +27,8 @@
 
 #### [Everest Detection](https://everestdetection.com/)
 
+#### [Early Diagnostics](https://earlydx.com/)
+
 
 ### China
 
