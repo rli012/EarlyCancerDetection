@@ -46,6 +46,8 @@
 
 * [Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA](https://www.annalsofoncology.org/article/S0923-7534(20)36058-0/fulltext)
 
+* [Identifying the tissues-of-origin of circulating cell-free DNAs is a promising way in noninvasive diagnostics](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa060/5840077?redirectedFrom=fulltext)
+
 ### 2019
 
 * [Genome-wide Cell-free DNA (cfDNA) Methylation Signatures and Effect on Tissue of Origin (TOO) Performance](https://grail.com/wp-content/uploads/ASCO_2019_CCGA2_Liu_Poster_Final.pdf)
@@ -75,7 +77,10 @@
 ### 2018
 
 * [Utility of circulating tumor DNA in cancer diagnostics with emphasis on early detection](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1157-9)
+
 * [Detection and localization of surgically resectable cancers with a multi-analyte blood test](https://science.sciencemag.org/content/359/6378/926)
+
+* [CancerDetector: ultrasensitive and non-invasive cancer detection at the resolution of individual reads using cell-free DNA methylation sequencing data](https://academic.oup.com/nar/article/46/15/e89/5036349)
 
 ### 2017
 
