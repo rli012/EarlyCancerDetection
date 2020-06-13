@@ -21,6 +21,10 @@
 
 #### [Singlera Genomics - Detect cancer earlier with the power of ctmDNA](https://singleraoncology.com/)
 
+#### [LexentBio/Foundation Medicine](https://www.lexentbio.com/)
+
+#### [Foundation Medicine/Roche](https://www.foundationmedicine.com/)
+
 #### [RESOLUTION BIOSCIENCE](http://www.resolutionbio.com/)
 
 #### [Adaptive Biotechnology](https://www.adaptivebiotech.com/)
